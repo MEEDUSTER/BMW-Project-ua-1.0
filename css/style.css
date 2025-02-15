@@ -360,7 +360,7 @@ body {
 
 .section-content {
   position: relative;
-  background: url("/background-image.jpg") no-repeat center center;
+  background: url("./background-image.jpg") no-repeat center center;
   background-size: cover;
   height: 700px;
   color: #fff;
